@@ -1,0 +1,26 @@
+{
+    "name": "nbview",
+    "version": "1.0.0",
+    "description": "Wrapper around nbconvert for quick jupyter notebook preview",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lepisma/nbview.git"
+    },
+    "keywords": [
+        "nbview",
+        "jupyter"
+    ],
+    "author": "Abhinav Tushar",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lepisma/nbview/issues"
+    },
+    "homepage": "https://github.com/lepisma/nbview#readme",
+    "dependencies": {
+        "open": ""
+    },
+    "bin": {
+        "nbview": "index.js"
+    }
+}
