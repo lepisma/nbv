@@ -1,0 +1,26 @@
+{
+  "name": "nbv",
+  "version": "0.1.0",
+  "description": "Jupyter notebook terminal viewer",
+  "main": "index.js",
+  "bin": {
+    "nbv": "index.js"
+  },
+  "dependencies": {
+    "msee": "^0.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lepisma/nbv.git"
+  },
+  "author": "Abhinav Tushar",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/lepisma/nbv/issues"
+  },
+  "homepage": "https://github.com/lepisma/nbv#readme"
+}
